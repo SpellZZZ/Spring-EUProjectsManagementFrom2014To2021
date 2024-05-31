@@ -50,6 +50,14 @@ Make sure that port is free: ![obraz](https://github.com/SpellZZZ/Spring-EUProje
   * /projekty/woj/{woj}/dotacje  ---->  Calculates total project funding in a specific region.
   * /projekty/woj/{woj}/dotacje/{start}/{koniec}  ---->  Aggregates project funding over a range of years for a specific region.
 
+
+# Graphic presentation 
+
+Application made by my groupmate
+
+![obraz](https://github.com/SpellZZZ/Spring-EUProjectsManagementFrom2014To2021/assets/43863065/811ddadb-eb48-4924-8881-a81d6965a9d5)
+
+
 # Example 
 
 Getting math results for every region:
@@ -63,6 +71,9 @@ Getting advanced math results for the Mazowieckie region:
 Getting a list of projects in the Lubelskie region:
 
 ![obraz](https://github.com/SpellZZZ/Spring-EUProjectsManagementFrom2014To2021/assets/43863065/d44ccfb1-c003-4c16-8288-302217a4ebc0)
+
+
+
 
 
 
